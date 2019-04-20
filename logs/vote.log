@@ -1,0 +1,126 @@
+2019-04-19 20:43:25.327  INFO 7928 --- [main] c.example.votedemo.VotedemoApplication   : Starting VotedemoApplication on LAPTOP-2A0OA0O8 with PID 7928 (D:\Code\JavaCode\votedemo\target\classes started by Brandon in D:\Code\JavaCode\votedemo)
+2019-04-19 20:43:25.333  INFO 7928 --- [main] c.example.votedemo.VotedemoApplication   : No active profile set, falling back to default profiles: default
+2019-04-19 20:43:26.485  INFO 7928 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-19 20:43:26.486  INFO 7928 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-19 20:43:26.509  INFO 7928 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
+2019-04-19 20:43:26.837  INFO 7928 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9246140] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-19 20:43:27.148  INFO 7928 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-04-19 20:43:27.180  INFO 7928 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-04-19 20:43:27.180  INFO 7928 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-19 20:43:27.393  INFO 7928 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-04-19 20:43:27.788  INFO 7928 --- [main] o.s.boot.web.servlet.RegistrationBean    : Filter LoginFilter was not registered (possibly already registered?)
+2019-04-19 20:43:28.137  INFO 7928 --- [main] io.lettuce.core.EpollProvider            : Starting without optional epoll library
+2019-04-19 20:43:28.142  INFO 7928 --- [main] io.lettuce.core.KqueueProvider           : Starting without optional kqueue library
+2019-04-19 20:43:29.049  INFO 7928 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-19 20:43:29.125  INFO 7928 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-04-19 20:43:29.877  INFO 7928 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2019-04-19 20:43:29.896  INFO 7928 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-19 20:43:29.901  INFO 7928 --- [main] c.example.votedemo.VotedemoApplication   : Started VotedemoApplication in 5.008 seconds (JVM running for 6.128)
+2019-04-19 20:51:14.427  INFO 24196 --- [main] c.example.votedemo.VotedemoApplication   : Starting VotedemoApplication on LAPTOP-2A0OA0O8 with PID 24196 (D:\Code\JavaCode\votedemo\target\classes started by Brandon in D:\Code\JavaCode\votedemo)
+2019-04-19 20:51:14.430  INFO 24196 --- [main] c.example.votedemo.VotedemoApplication   : No active profile set, falling back to default profiles: default
+2019-04-19 20:51:15.376  INFO 24196 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-19 20:51:15.378  INFO 24196 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-19 20:51:15.399  INFO 24196 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
+2019-04-19 20:51:15.683  INFO 24196 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1277c712] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-19 20:51:15.988  INFO 24196 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-04-19 20:51:16.012  INFO 24196 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-04-19 20:51:16.013  INFO 24196 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-19 20:51:16.157  INFO 24196 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-04-19 20:51:16.526  INFO 24196 --- [main] o.s.boot.web.servlet.RegistrationBean    : Filter LoginFilter was not registered (possibly already registered?)
+2019-04-19 20:51:16.682  INFO 24196 --- [main] io.lettuce.core.EpollProvider            : Starting without optional epoll library
+2019-04-19 20:51:16.683  INFO 24196 --- [main] io.lettuce.core.KqueueProvider           : Starting without optional kqueue library
+2019-04-19 20:51:17.290  INFO 24196 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-19 20:51:17.371  INFO 24196 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-04-19 20:51:18.145  INFO 24196 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2019-04-19 20:51:18.169  INFO 24196 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-19 20:51:18.173  INFO 24196 --- [main] c.example.votedemo.VotedemoApplication   : Started VotedemoApplication in 4.167 seconds (JVM running for 5.182)
+2019-04-19 20:53:29.460  INFO 11052 --- [main] c.example.votedemo.VotedemoApplication   : Starting VotedemoApplication on LAPTOP-2A0OA0O8 with PID 11052 (D:\Code\JavaCode\votedemo\target\classes started by Brandon in D:\Code\JavaCode\votedemo)
+2019-04-19 20:53:29.462  INFO 11052 --- [main] c.example.votedemo.VotedemoApplication   : No active profile set, falling back to default profiles: default
+2019-04-19 20:53:30.500  INFO 11052 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-19 20:53:30.501  INFO 11052 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-19 20:53:30.525  INFO 11052 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 14ms. Found 0 repository interfaces.
+2019-04-19 20:53:30.787  INFO 11052 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5b32fec6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-19 20:53:31.089  INFO 11052 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-04-19 20:53:31.110  INFO 11052 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-04-19 20:53:31.110  INFO 11052 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-19 20:53:31.250  INFO 11052 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-04-19 20:53:31.615  INFO 11052 --- [main] o.s.boot.web.servlet.RegistrationBean    : Filter LoginFilter was not registered (possibly already registered?)
+2019-04-19 20:53:31.778  INFO 11052 --- [main] io.lettuce.core.EpollProvider            : Starting without optional epoll library
+2019-04-19 20:53:31.779  INFO 11052 --- [main] io.lettuce.core.KqueueProvider           : Starting without optional kqueue library
+2019-04-19 20:53:32.379  INFO 11052 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-19 20:53:32.456  INFO 11052 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-04-19 20:53:33.221  INFO 11052 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2019-04-19 20:53:33.287  INFO 11052 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-19 20:53:33.291  INFO 11052 --- [main] c.example.votedemo.VotedemoApplication   : Started VotedemoApplication in 4.341 seconds (JVM running for 5.352)
+2019-04-19 20:54:56.594  INFO 20340 --- [main] c.example.votedemo.VotedemoApplication   : Starting VotedemoApplication on LAPTOP-2A0OA0O8 with PID 20340 (D:\Code\JavaCode\votedemo\target\classes started by Brandon in D:\Code\JavaCode\votedemo)
+2019-04-19 20:54:56.598  INFO 20340 --- [main] c.example.votedemo.VotedemoApplication   : No active profile set, falling back to default profiles: default
+2019-04-19 20:54:57.560  INFO 20340 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-19 20:54:57.561  INFO 20340 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-19 20:54:57.580  INFO 20340 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 10ms. Found 0 repository interfaces.
+2019-04-19 20:54:57.841  INFO 20340 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1532a582] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-19 20:54:58.137  INFO 20340 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-04-19 20:54:58.157  INFO 20340 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-04-19 20:54:58.158  INFO 20340 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-19 20:54:58.299  INFO 20340 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-04-19 20:54:58.657  INFO 20340 --- [main] o.s.boot.web.servlet.RegistrationBean    : Filter LoginFilter was not registered (possibly already registered?)
+2019-04-19 20:54:58.813  INFO 20340 --- [main] io.lettuce.core.EpollProvider            : Starting without optional epoll library
+2019-04-19 20:54:58.814  INFO 20340 --- [main] io.lettuce.core.KqueueProvider           : Starting without optional kqueue library
+2019-04-19 20:54:59.543  INFO 20340 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-19 20:54:59.616  INFO 20340 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-04-19 20:55:00.411  INFO 20340 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2019-04-19 20:55:00.452  INFO 20340 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-19 20:55:00.457  INFO 20340 --- [main] c.example.votedemo.VotedemoApplication   : Started VotedemoApplication in 4.36 seconds (JVM running for 5.431)
+2019-04-19 20:55:45.022  INFO 2632 --- [main] c.example.votedemo.VotedemoApplication   : Starting VotedemoApplication on LAPTOP-2A0OA0O8 with PID 2632 (D:\Code\JavaCode\votedemo\target\classes started by Brandon in D:\Code\JavaCode\votedemo)
+2019-04-19 20:55:45.025  INFO 2632 --- [main] c.example.votedemo.VotedemoApplication   : No active profile set, falling back to default profiles: default
+2019-04-19 20:55:45.922  INFO 2632 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-19 20:55:45.924  INFO 2632 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-19 20:55:45.946  INFO 2632 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 12ms. Found 0 repository interfaces.
+2019-04-19 20:55:46.221  INFO 2632 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$32321e74] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-19 20:55:46.517  INFO 2632 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-04-19 20:55:46.539  INFO 2632 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-04-19 20:55:46.539  INFO 2632 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-19 20:55:46.684  INFO 2632 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-04-19 20:55:47.039  INFO 2632 --- [main] o.s.boot.web.servlet.RegistrationBean    : Filter LoginFilter was not registered (possibly already registered?)
+2019-04-19 20:55:47.204  INFO 2632 --- [main] io.lettuce.core.EpollProvider            : Starting without optional epoll library
+2019-04-19 20:55:47.206  INFO 2632 --- [main] io.lettuce.core.KqueueProvider           : Starting without optional kqueue library
+2019-04-19 20:55:47.797  INFO 2632 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-19 20:55:47.866  INFO 2632 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-04-19 20:55:48.621  INFO 2632 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2019-04-19 20:55:48.649  INFO 2632 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-19 20:55:48.653  INFO 2632 --- [main] c.example.votedemo.VotedemoApplication   : Started VotedemoApplication in 4.065 seconds (JVM running for 5.065)
+2019-04-19 20:56:04.561  INFO 25420 --- [main] c.example.votedemo.VotedemoApplication   : Starting VotedemoApplication on LAPTOP-2A0OA0O8 with PID 25420 (D:\Code\JavaCode\votedemo\target\classes started by Brandon in D:\Code\JavaCode\votedemo)
+2019-04-19 20:56:04.564  INFO 25420 --- [main] c.example.votedemo.VotedemoApplication   : No active profile set, falling back to default profiles: default
+2019-04-19 20:56:05.495  INFO 25420 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-19 20:56:05.497  INFO 25420 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-19 20:56:05.518  INFO 25420 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 11ms. Found 0 repository interfaces.
+2019-04-19 20:56:05.783  INFO 25420 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9894c73] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-19 20:56:06.077  INFO 25420 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-04-19 20:56:06.097  INFO 25420 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-04-19 20:56:06.098  INFO 25420 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-19 20:56:06.234  INFO 25420 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-04-19 20:56:06.595  INFO 25420 --- [main] o.s.boot.web.servlet.RegistrationBean    : Filter LoginFilter was not registered (possibly already registered?)
+2019-04-19 20:56:06.754  INFO 25420 --- [main] io.lettuce.core.EpollProvider            : Starting without optional epoll library
+2019-04-19 20:56:06.755  INFO 25420 --- [main] io.lettuce.core.KqueueProvider           : Starting without optional kqueue library
+2019-04-19 20:56:07.347  INFO 25420 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-19 20:56:07.420  INFO 25420 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-04-19 20:56:08.222  INFO 25420 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2019-04-19 20:56:08.261  INFO 25420 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-19 20:56:08.267  INFO 25420 --- [main] c.example.votedemo.VotedemoApplication   : Started VotedemoApplication in 4.192 seconds (JVM running for 5.201)
+2019-04-19 20:59:58.491  INFO 23604 --- [main] c.example.votedemo.VotedemoApplication   : Starting VotedemoApplication on LAPTOP-2A0OA0O8 with PID 23604 (D:\Code\JavaCode\votedemo\target\classes started by Brandon in D:\Code\JavaCode\votedemo)
+2019-04-19 20:59:58.499  INFO 23604 --- [main] c.example.votedemo.VotedemoApplication   : No active profile set, falling back to default profiles: default
+2019-04-19 20:59:59.737  INFO 23604 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-04-19 20:59:59.743  INFO 23604 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-19 20:59:59.776  INFO 23604 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 23ms. Found 0 repository interfaces.
+2019-04-19 21:00:00.152  INFO 23604 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$e4862655] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-19 21:00:00.569  INFO 23604 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-04-19 21:00:00.598  INFO 23604 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-04-19 21:00:00.598  INFO 23604 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.17]
+2019-04-19 21:00:00.785  INFO 23604 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-04-19 21:00:01.280  INFO 23604 --- [main] o.s.boot.web.servlet.RegistrationBean    : Filter LoginFilter was not registered (possibly already registered?)
+2019-04-19 21:00:01.484  INFO 23604 --- [main] io.lettuce.core.EpollProvider            : Starting without optional epoll library
+2019-04-19 21:00:01.485  INFO 23604 --- [main] io.lettuce.core.KqueueProvider           : Starting without optional kqueue library
+2019-04-19 21:00:02.291  INFO 23604 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-19 21:00:02.387  INFO 23604 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2019-04-19 21:00:03.241  INFO 23604 --- [main] s.a.ScheduledAnnotationBeanPostProcessor : No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2019-04-19 21:00:03.266  INFO 23604 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-19 21:00:03.274  INFO 23604 --- [main] c.example.votedemo.VotedemoApplication   : Started VotedemoApplication in 5.433 seconds (JVM running for 6.837)
